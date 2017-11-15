@@ -1,0 +1,6 @@
+framework module Pods_GTCalendarDemo {
+  umbrella header "Pods-GTCalendarDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
